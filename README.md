@@ -2,7 +2,7 @@
 
 This repo is a host of codes for the paper *Sensing Climate Justice: A Multi-Hyper Graph Approach for Classifying Urban Heat and Flood Vulnerability through Street View Imagery* published in Sustainable Cities and Society (doi: https://doi.org/10.1016/j.scs.2024.106016)
 
-
+<img src="https://github.com/PengyuanLiu1993/SensingUrbanClimate/blob/main/ucj_github.png/">
 
 This repo contains two jupyternote book files: London_dataProcess.ipynb and multi_hyper.ipynb. London_dataProcess.ipynb is a demonstration of how to prepare the graph data and multi_hyper.ipynb conatins our proposed Multi-Hyper Graph Neural Network and training demonstration. 
 
